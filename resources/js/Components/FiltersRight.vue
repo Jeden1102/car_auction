@@ -126,7 +126,7 @@ export default {
       filtersYear: {
         yearFrom: {
           value: "",
-          label: "Year",
+          label: "Yearss",
           placeholder: "From",
         },
         yearTo: {
