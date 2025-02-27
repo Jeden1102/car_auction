@@ -11,7 +11,7 @@
           class="base-input"
         />
       </div>
-      <label class="year-label" for="">Yearss</label>
+      <label class="year-label" for="">Year</label>
       <div class="filters-flex">
         <div
           class="filters__right__filter"
@@ -89,7 +89,7 @@
             ><span>
               <svg width="12px" height="10px" viewbox="0 0 12 10">
                 <polyline points="1.5 6 4.5 9 10.5 1"></polyline></svg></span
-            ><span>IAAIsssssssssss</span>
+            ><span>IAAI</span>
           </label>
         </div>
         <div class="base-checkbox">
@@ -126,7 +126,7 @@ export default {
       filtersYear: {
         yearFrom: {
           value: "",
-          label: "Yearss",
+          label: "Year",
           placeholder: "From",
         },
         yearTo: {
